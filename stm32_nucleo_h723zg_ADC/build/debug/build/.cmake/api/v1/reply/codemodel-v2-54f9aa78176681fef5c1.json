@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "stm32_nucleo_h723zg_tcp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "stm32_nucleo_h723zg_tcp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stm32_nucleo_h723zg_tcp-Debug-c6c66da379e244eb5a0b.json",
+					"name" : "stm32_nucleo_h723zg_tcp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Jack/Projects/MASA/STM32-Testing/stm32_nucleo_h723zg_ADC/build/debug/build",
+		"source" : "C:/Users/Jack/Projects/MASA/STM32-Testing/stm32_nucleo_h723zg_ADC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

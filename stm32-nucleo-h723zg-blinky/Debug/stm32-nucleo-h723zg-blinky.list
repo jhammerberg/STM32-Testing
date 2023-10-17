@@ -902,7 +902,7 @@ void StartBlinky02(void *argument)
   /* Infinite loop */
   for(;;)
   {
-	strcpy((char*)buf, "Turning on LED 2\r\n");
+	strcpy((char*)buf, "!!!!!!!!!!!!!!!!\r\n");
  8000950:	f107 030c 	add.w	r3, r7, #12
  8000954:	4a1b      	ldr	r2, [pc, #108]	; (80009c4 <StartBlinky02+0x7c>)
  8000956:	461c      	mov	r4, r3
@@ -950,7 +950,7 @@ void StartBlinky02(void *argument)
  80009b8:	f44f 737a 	mov.w	r3, #1000	; 0x3e8
  80009bc:	4802      	ldr	r0, [pc, #8]	; (80009c8 <StartBlinky02+0x80>)
  80009be:	f003 fb51 	bl	8004064 <HAL_UART_Transmit>
-	strcpy((char*)buf, "Turning on LED 2\r\n");
+	strcpy((char*)buf, "!!!!!!!!!!!!!!!!\r\n");
  80009c2:	e7c5      	b.n	8000950 <StartBlinky02+0x8>
  80009c4:	08008074 	.word	0x08008074
  80009c8:	24000030 	.word	0x24000030

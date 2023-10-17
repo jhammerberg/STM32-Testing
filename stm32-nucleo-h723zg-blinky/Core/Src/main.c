@@ -358,7 +358,7 @@ void StartBlinky02(void *argument)
   /* Infinite loop */
   for(;;)
   {
-	strcpy((char*)buf, "Turning on LED 2\r\n");
+	strcpy((char*)buf, "!!!!!!!!!!!!!!!!\r\n");
 	HAL_UART_Transmit(&huart3, buf, strlen((char*)buf), 1000);
 	HAL_GPIO_TogglePin(GPIOE, GPIO_PIN_1);
 	osDelay(750);
