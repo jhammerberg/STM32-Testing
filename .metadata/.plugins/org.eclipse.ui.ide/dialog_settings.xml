@@ -9,6 +9,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Jack\Projects\MASA\STM32-Testing\STM32_Nucleo_H723ZG_blinky"/>
+			<item value="C:\Users\Jack\Projects\MASA\STM32-Testing\STM32_Nucelo_H723ZG_blinky"/>
 			<item value="C:\Users\Jack\Projects\MASA\STM32-Testing"/>
 			<item value="C:\Users\Jack\Projects\MASA\STM32-Testing\stm32_nucleo_h723zg_ADC"/>
 		</list>

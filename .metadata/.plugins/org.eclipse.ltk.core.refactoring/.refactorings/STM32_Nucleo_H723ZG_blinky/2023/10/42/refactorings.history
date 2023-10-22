@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32_Nucleo_H723ZG_blinky/stm32-nucleo-h723zg-blinky Debug.launch&apos; to &apos;STM32_Nucelo_H723ZG_TCP_test.launch&apos;" description="Rename resource &apos;stm32-nucleo-h723zg-blinky Debug.launch&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="stm32-nucleo-h723zg-blinky Debug.launch" name="STM32_Nucelo_H723ZG_TCP_test.launch" stamp="1697511252950" updateReferences="true"/>
+</session>

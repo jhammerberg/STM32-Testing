@@ -11,3 +11,7 @@
 1697509816249	Rename resource 'stm32_nucelo_H723ZG_ADC'
 1697509907148	Delete resource 'STM32_Nucleo_H723ZG_blinky'
 1697510027092	Delete resource 'STM32_Nucleo_H723ZG_blinky'
+1697510622229	Delete resource 'STM32_Nucelo_H723ZG_ADC/stm32_nucelo_h723zg_tcp_test Debug.launch'
+1697510624939	Delete resource 'STM32_Nucelo_H723ZG_ADC/stm32_nucelo_h723zg_tcp_test Debug (1).launch'
+1697511203101	Delete resource 'STM32_Nucelo_H723ZG_TCP_test/stm32_nucelo_h723zg_tcp_test Debug.launch'
+1697511204977	Delete resource 'STM32_Nucelo_H723ZG_TCP_test/stm32_nucelo_h723zg_tcp_test Debug (1).launch'

@@ -1,5 +1,7 @@
-../Core/Src/main.c:312:6:StartDefaultTask	1
-../Core/Src/main.c:164:6:SystemClock_Config	4
-../Core/Src/main.c:77:5:main	5
-../Core/Src/main.c:402:6:HAL_TIM_PeriodElapsedCallback	2
-../Core/Src/main.c:419:6:Error_Handler	1
+../Core/Src/main.c:462:6:start_eth	1
+../Core/Src/main.c:500:6:start_dac_tx	1
+../Core/Src/main.c:527:6:start_adc_rx	1
+../Core/Src/main.c:195:6:SystemClock_Config	4
+../Core/Src/main.c:100:5:main	12
+../Core/Src/main.c:605:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:622:6:Error_Handler	1
